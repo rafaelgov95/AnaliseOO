@@ -1,4 +1,4 @@
-##Aula 18/01 (Individual)Construa um Diagrama de Atividades para o seguinte processo de negócio:
+#Aula 18/01 (Individual)Construa um Diagrama de Atividades para o seguinte processo de negócio:
 
  - A autorização do pagamento tem início após um pedido ter sido realizado pelo cliente.
  - Ao mesmo tempo, a disponibilidade para cada um dos itens do pedido é verificada pelo depósito.
